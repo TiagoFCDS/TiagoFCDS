@@ -16,10 +16,11 @@ Atuo como cientista de dados na Tecnisys e sou Graduando em Engenharia Mecatrôn
 Fique à vontade para explorar meus repositórios e sinta-se livre para entrar em contato. Estou sempre aberto a colaborações e discussões interessantes!
 
 ### Tecnologias
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
-<i class="devicon-python-plain-wordmark colored"></i>
-
+<style>
+  .devicon-apache-plain {
+    font-size: 20px; /* Altere o tamanho conforme necessário */
+  }
+</style>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
