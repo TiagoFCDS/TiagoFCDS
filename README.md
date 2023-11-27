@@ -1,8 +1,6 @@
 # Olá, sou Tiago.
 
-## ![#01f85d](https://via.placeholder.com/15/01f85d/000000?text=+)'Cientista de Dados | Especialista Big Data' 
-
-- ![#01f85d](https://placehold.co/15x15/f03c15/f03c15.png) `Cientista de Dados | Especialista Big Data`
+## Cientista de Dados | Especialista Big Data
 
 Bem-vindo ao meu espaço no GitHub! 👋
 
@@ -30,3 +28,11 @@ Atuo como cientista de dados na Tecnisys e sou Graduando em Engenharia Mecatrôn
 </div>
 
 Fique à vontade para explorar meus repositórios e sinta-se livre para entrar em contato. Estou sempre aberto a colaborações e discussões interessantes!
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFCDS&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFCDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/TiagoFCDS/TiagoFCDS/blob/output/github-contribution-grid-snake.svg)
