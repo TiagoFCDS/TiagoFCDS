@@ -1,6 +1,8 @@
 # Olá, sou Tiago.
 
-## <span style="color: #01f85d;">Cientista de Dados | Especialista Big Data</span>
+## ![#01f85d](https://via.placeholder.com/15/01f85d/000000?text=+)'Cientista de Dados | Especialista Big Data' 
+
+- ![#01f85d](https://placehold.co/15x15/f03c15/f03c15.png) `Cientista de Dados | Especialista Big Data`
 
 Bem-vindo ao meu espaço no GitHub! 👋
 
