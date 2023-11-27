@@ -1,26 +1,30 @@
 # Olá, sou Tiago.
 
-## Cientista de Dados | Especialista Big Data
+## <span style="color: #01f85d;">Cientista de Dados | Especialista Big Data</span>
 
 Bem-vindo ao meu espaço no GitHub! 👋
 
 ### Sobre Mim
-Atuo como cientista de dados na Tecnisys e sou Graduando em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Estou entusiasmado em compartilhar alguns projetos e aprendizados por aqui.
+Atuo como cientista de dados na Tecnisys e sou Graduando em Engenharia Mecatrônica pela Universidade de Brasília (UnB). Estou entusiasmado em compartilhar alguns projetos e aprendizados.
 
+### Tecnologias:
 
-### Conecte-se Comigo
+<div>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="80"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="85"/>
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="100" height="80"/>
+<img loading="lazy" src="https://cwiki.apache.org/confluence/download/attachments/145723561/wordmark_1.svg?api=v2" width="80" height="80"/>
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" width="80" height="80"/>
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-ar21.svg" width="120" height="70"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="80"/>
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-ferreira-candido-1007b1233/)
+</div>
 
+### Contatos:
+
+<div>
+<a href = "mailto:tiagofcunb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiago-ferreira-candido-1007b1233/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Fique à vontade para explorar meus repositórios e sinta-se livre para entrar em contato. Estou sempre aberto a colaborações e discussões interessantes!
-
-### Tecnologias
-
-<style>
-  .devicon-apache-plain {
-    font-size: 20px; /* Altere o tamanho conforme necessário */
-  }
-</style>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
